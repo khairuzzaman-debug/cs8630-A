@@ -1,5 +1,6 @@
 # Jupyter Notesbooks
-Introduction to Visualization Technologies in Common Use
+Introduction to Visualization Technologies in Common Use. 
+This is my fork and I have tried to update the README
 
 ## Setup Environment
 1. Make sure you have python3 installed. Brew for OSX, you might consider using the WSL on Windows. Linux package managers include `dnf` and `apt` depending on your distribution. 
